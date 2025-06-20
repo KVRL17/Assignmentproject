@@ -27,7 +27,7 @@ const MainDisplay: React.FC<MainDisplayProps> = ({ sidebarOpen }) => {
           <img
             src="/StatueImage.png"
             alt="Maitreya Buddha Statue"
-            className="w-full h-auto max-h-[80vh] object-contain drop-shadow-2xl"
+            className="w-full h-auto max-h-[100vh] object-contain drop-shadow-2xl"
             style={{
               filter: 'drop-shadow(0 25px 50px rgba(0, 0, 0, 0.5))',
             }}
